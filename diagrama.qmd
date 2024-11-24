@@ -1,0 +1,14 @@
+```{mermaid}
+
+flowchart LR
+  A[Hard edge] --> B(Round edge)
+
+  C --> D[Result one]
+  C --> E[Result two]
+```
+
+```{mermaid}
+flowchart LR 
+  C --> D[Result tree]
+  D --> F[Result four]
+```
