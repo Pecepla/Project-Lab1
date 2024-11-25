@@ -30,7 +30,6 @@ Trabajaremos Con el IDE [ Visual Studio Code](https://code.visualstudio.com/down
 #### Autor:
   - Pedro Cecilia<br>
   - Cifo la VIoleta<br>
-
 :::
 :::
 
