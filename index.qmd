@@ -8,7 +8,7 @@ title: "Laboratorio 1"
 
 * Quarto Fuentes
     +  Documentacion pagina  [Albert ](https://albertprofe.dev)
-    +  Documentacion oficial Quarto [Quarto](https://quarto.org)
+    +  Documentacion oficial Quarto [Quarto](https://quarto.org)<br>
          
 * GitHub Fuentes
     +  Documentacion pagina  [Albert ](https://albertprofe.dev)
@@ -22,8 +22,15 @@ En una maquina Virtual de [ Virtual box](https://www.virtualbox.org/wiki/)<br>
 Trabajaremos Con el IDE [ Visual Studio Code](https://code.visualstudio.com/download)<br>
 :::
 
+
+
+
+::: {#special .sidebar2}
 ::: {.callout-tip}
 #### Autor:
   - Pedro Cecilia<br>
   - Cifo la VIoleta<br>
+
 :::
+:::
+
