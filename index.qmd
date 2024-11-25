@@ -22,14 +22,14 @@ En una maquina Virtual de [ Virtual box](https://www.virtualbox.org/wiki/)<br>
 Trabajaremos Con el IDE [ Visual Studio Code](https://code.visualstudio.com/download)<br>
 :::
 
-
-
-
-::: {#special .sidebar2}
 ::: {.callout-tip}
 #### Autor:
   - Pedro Cecilia<br>
   - Cifo la VIoleta<br>
 :::
+
+
+::: {#special .sidebar2}
+
 :::
 
