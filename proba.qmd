@@ -2,6 +2,7 @@
 title: "proba"
 ---
 
+
 ::: {.callout-note}
 ## Recursos del Laboratorio
 Empezamos el curso con la Instalacion de Linux Mint [Linux Mint](https://www.linuxmint.com/download.php)<br>
