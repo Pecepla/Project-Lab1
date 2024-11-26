@@ -1,3 +1,6 @@
+---
+title: "About"
+---
 
 ::: {.callout-note}
 ## Recursos del Laboratorio
