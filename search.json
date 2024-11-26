@@ -14,13 +14,6 @@
     "text": "Quarto Fuentes\n\nDocumentacion pagina Albert\nDocumentacion oficial Quarto Quarto\n\nGitHub Fuentes\n\nDocumentacion pagina Albert\nDocumentacion oficial GitHub GitH\n\n\n\n\n\n\n\n\nRecursos del Laboratorio\n\n\n\nEmpezamos el curso con la Instalacion de Linux Mint Linux Mint En una maquina Virtual de Virtual box Trabajaremos Con el IDE Visual Studio Code\n\n\n\n\n\n\n\n\nAutor:\n\n\n\n\nPedro Cecilia\nCifo la VIoleta"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "home.html",
     "href": "home.html",
     "title": "Laboratorio 1",
@@ -33,5 +26,19 @@
     "title": "Laboratorio 1",
     "section": "",
     "text": "Hacer Documentacion\nInstalar Programas"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "proba.html",
+    "href": "proba.html",
+    "title": "Laboratorio 1",
+    "section": "",
+    "text": "Recursos del Laboratorio\n\n\n\nEmpezamos el curso con la Instalacion de Linux Mint Linux Mint En una maquina Virtual de Virtual box Trabajaremos Con el IDE Visual Studio Code"
   }
 ]
