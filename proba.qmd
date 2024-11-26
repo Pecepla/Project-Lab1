@@ -1,0 +1,7 @@
+
+::: {.callout-note}
+## Recursos del Laboratorio
+Empezamos el curso con la Instalacion de Linux Mint [Linux Mint](https://www.linuxmint.com/download.php)<br>
+En una maquina Virtual de [ Virtual box](https://www.virtualbox.org/wiki/)<br>
+Trabajaremos Con el IDE [ Visual Studio Code](https://code.visualstudio.com/download)<br>
+:::

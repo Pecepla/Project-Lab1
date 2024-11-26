@@ -9,6 +9,8 @@ website:
         text: Home
       - href: about.qmd
         text: Aout
+      - href: proba.qmd
+        text: proba
 
 format:
   html:
