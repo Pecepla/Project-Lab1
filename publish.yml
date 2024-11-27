@@ -1,5 +1,6 @@
 
-on:
+
+On:
   workflow_dispatch:
   push:
     branches:
