@@ -8,8 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: Aout
+      - href: Docker.qmd
+        text: Documents Docker
       - href: proba.qmd
         text: proba
 
