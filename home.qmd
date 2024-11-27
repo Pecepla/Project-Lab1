@@ -1,9 +1,10 @@
 
 ## Tareas Pendientes
 ::: {}
+- [x] Instalar Programas
+
 - [x] Hacer Documentacion
 
-- [x] Instalar Programas
 :::
 
 
