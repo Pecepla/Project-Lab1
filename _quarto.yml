@@ -9,7 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - href: Docker.qmd
-        text: Documents Docker
+        text: Documentacion Docker
       - href: proba.qmd
         text: proba
 
